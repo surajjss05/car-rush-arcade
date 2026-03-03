@@ -38,17 +38,15 @@ Click Open with Live Server
 
   📂 Project Structure
 
-📁 Car-Rush
- ├── index.html   # Main HTML file
- ├── style.css    # Game styling
- └── script.js    # Game logic
+  📁 Car-Rush
+index.html   # Main HTML file    style.css    # Game styli           script.js    # Game logic
 
  🚀 Future Improvements (Optional Ideas)
 
 ~ Add sound effects 🎵
 ~ Add levels system
 ~ Add mobile touch controls
-~ Add high score storage using LocalStorage
+~ Add high score storage using   LocalStorage
 ~ Add background music
 
  👨‍💻 Author
